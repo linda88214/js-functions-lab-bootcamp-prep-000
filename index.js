@@ -5,7 +5,7 @@ function happyHolidays() {
 //no parameter but to return "Happy holidays!"
 
 
-function happyHolidaysTo(linda) {
+function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`
 }
 //
