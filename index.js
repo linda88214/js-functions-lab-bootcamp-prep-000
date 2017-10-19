@@ -2,10 +2,13 @@
 function happyHolidays() {
   return "Happy holidays!"
 }
+//no parameter but to return "Happy holidays!"
 
-function happyHolidaysTo(name) {
+
+function happyHolidaysTo(linda) {
   return `Happy holidays, ${name}!`
 }
+//
 
 function happyHolidayTo(holiday, name) {
   return `Happy ${holiday}, ${name}!`
